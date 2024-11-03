@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class ShopController extends Controller
 {
-    public function index()
+    public function shop()
     {
         // Logika untuk mendapatkan data yang diperlukan untuk halaman shop
         // Misalnya: mengambil produk dari database
